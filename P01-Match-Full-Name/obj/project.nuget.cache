@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BJ8hh3zybOFi2UXi+pmn6y9t7t9eXozk7n35R3hT8CfKWelUxU+pKHRGoIlg/+Wdnuon4L56qbo9g314K9P5Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Regular-Expressions\\P01-Match-Full-Name\\P01-Match-Full-Name.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

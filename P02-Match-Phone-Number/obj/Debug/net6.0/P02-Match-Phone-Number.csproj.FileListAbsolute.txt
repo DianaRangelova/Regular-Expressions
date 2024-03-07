@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Regular-Expressions\P02-Match-Phone-Number\bin\Debug\net6.0\P02-Match-Phone-Number.exe
+C:\Users\PC\source\repos\Regular-Expressions\P02-Match-Phone-Number\bin\Debug\net6.0\P02-Match-Phone-Number.deps.json
+C:\Users\PC\source\repos\Regular-Expressions\P02-Match-Phone-Number\bin\Debug\net6.0\P02-Match-Phone-Number.runtimeconfig.json
+C:\Users\PC\source\repos\Regular-Expressions\P02-Match-Phone-Number\bin\Debug\net6.0\P02-Match-Phone-Number.dll
+C:\Users\PC\source\repos\Regular-Expressions\P02-Match-Phone-Number\bin\Debug\net6.0\P02-Match-Phone-Number.pdb
+C:\Users\PC\source\repos\Regular-Expressions\P02-Match-Phone-Number\obj\Debug\net6.0\P02-Match-Phone-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Regular-Expressions\P02-Match-Phone-Number\obj\Debug\net6.0\P02-Match-Phone-Number.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Regular-Expressions\P02-Match-Phone-Number\obj\Debug\net6.0\P02-Match-Phone-Number.AssemblyInfo.cs
+C:\Users\PC\source\repos\Regular-Expressions\P02-Match-Phone-Number\obj\Debug\net6.0\P02-Match-Phone-Number.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Regular-Expressions\P02-Match-Phone-Number\obj\Debug\net6.0\P02-Match-Phone-Number.dll
+C:\Users\PC\source\repos\Regular-Expressions\P02-Match-Phone-Number\obj\Debug\net6.0\refint\P02-Match-Phone-Number.dll
+C:\Users\PC\source\repos\Regular-Expressions\P02-Match-Phone-Number\obj\Debug\net6.0\P02-Match-Phone-Number.pdb
+C:\Users\PC\source\repos\Regular-Expressions\P02-Match-Phone-Number\obj\Debug\net6.0\P02-Match-Phone-Number.genruntimeconfig.cache
+C:\Users\PC\source\repos\Regular-Expressions\P02-Match-Phone-Number\obj\Debug\net6.0\ref\P02-Match-Phone-Number.dll
